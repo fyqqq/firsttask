@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">firsttask</string>
     <string name="user_name">Afiq</string>
+    <string name="home_address">Selangor</string>
+    <string name="phone_no">+60</string>
     <string name="btn_name">Send Data</string>
 
 </resources>
